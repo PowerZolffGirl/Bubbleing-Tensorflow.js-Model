@@ -8,4 +8,4 @@ github 레포지토리를 데이터 저장소처럼 이용할 수 있는 기능�
 ### :mag_right:raw githubusercontent 를 이용한 모델 로드 방법
 1. 현재 레포지토리의 model.json 의 raw githubusercontent 주소인 https://raw.githubusercontent.com/PowerZolffGirl/Bubbleing-Tensorflow.js-Model/main/model.json 를 복사합니다. 이 주소로 입력시, 모델의 데이터와 result 에 대한 내용도 볼 수 있습니다.
 2. tensorflow/tfjs-converter 라이브러리로부터 loadGraphModel 을 import 한 뒤, 아래와 같이 모델을 로드하는 코드를 통해 이용합니다.
-<img src = "https://user-images.githubusercontent.com/78165538/170562410-c1f549f0-4ba8-4e8d-96a2-e5a91c2db881.png" width="700px" height="150px">
+<img src = "https://user-images.githubusercontent.com/78165538/170563485-c61aa242-4016-422d-9cde-cfd1d53daf84.png" width="700px" height="150px">
